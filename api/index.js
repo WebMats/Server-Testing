@@ -9,4 +9,4 @@ app.use(express.json());
 
 
 
-module.exports = server
+module.exports = app;
